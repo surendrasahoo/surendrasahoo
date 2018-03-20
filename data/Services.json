@@ -5103,11 +5103,11 @@
       }
     ],
     "oracle": [
-      {
-        "name": "",
-        "ref": "https://#",
-        "icon": "none.png",
-        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
+      {        
+	      "name": "API Platform",
+	      "ref": "https://cloud.oracle.com/api-platform",
+	      "icon": "APIManager.png", 
+	      "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
       }
     ],
     "alibaba": [
